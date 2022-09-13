@@ -1,16 +1,20 @@
-# 🚧 README em construção 🚧
+<h1>Stranger Things</h1>
 
-<!-- Olá, Tryber!
+<h2>Descrição sobre o projeto</h2>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+<i>Stranger Things</i> é projeto um desenvolvido para a prática da realização do deploy de um ambiente front-end e back-end conteinerizados com <b>Docker</b> através do serviço <b>Heroku</b>.
 
-É essencial que você preencha esse documento por conta própria, ok?
+<b>Disclaimer</b>: Ambos os ambientes front-end e back-end foram desenvolvidos pela <a href="https://github.com/betrybe">Trybe</b>.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+<h2>Tecnologias utilizadas</h2>
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+<ul>
+  <li>Docker</li>
+  <li>Heroku</li>
+</ul>
 
--->
+<h2>Como executar o projeto</h2>
+
+O site está hospedado temporariamente no serviço Heroku:
+
+https://yudikaike-pd.herokuapp.com/
